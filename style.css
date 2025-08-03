@@ -1,0 +1,139 @@
+
+#titulo {
+    font-family: "Lora", serif;
+}
+
+header {
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 10px 20px;
+    position: fixed;
+}
+
+body {
+    background-color:#e7e6e6;
+}
+
+#botaologin {
+    border-radius: 20px;
+}
+
+#botaologin {
+    font-family: "Outfit", sans-serif; 
+    font-optical-sizing: auto;
+}
+
+#sobre {
+    font-family: "Outfit", sans-serif; 
+    background-color: rgb(92, 150, 202);
+    color: #e7e6e6;
+    border-radius: 130px;
+    padding: 60px;
+    font-size: 1.3rem;
+    box-shadow: rgba(0, 0, 0, 0.6) 10px 10px 30px;
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+
+
+#services {
+       margin-top: 70px;
+}
+
+#proposito {
+    background-color: #e1d9d9;
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: 100px;
+}
+
+
+#values {
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-size: 3.0rem;
+}
+
+#values h2 {
+    font-size: 3.0rem;
+}
+
+.pilares {
+    width: 250px;
+    height: 500px;
+    border-width: 2px;
+    border-radius: 15px;
+    font-size: 2.0rem;
+    color: #110d0d;
+    font-family: "Smooch Sans", sans-serif;    
+}
+
+#formaticon {
+    margin-right: 100px;
+}
+
+
+#diff {
+    font-family: "Ancizar Serif", serif;
+    font-size: 4.0rem;
+   
+}
+#atend {
+      font-family: "Outfit", sans-serif;
+      font-size: 1.5rem;
+      margin-top: 30px;
+}
+
+#imagens{
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.6) 10px 10px 30px;
+}
+
+.cards {
+    font-family: "Outfit", sans-serif;
+    margin-top: 20px;
+}
+
+
+.imgcard {
+    border-radius: 20px;
+    margin-top: 5px;
+}
+
+.formatcard {
+    background-color: rgb(92, 150, 202);
+    color: #070202;
+    border-style: solid;
+    border-color: rgb(92, 150, 202);
+    box-shadow: rgba(0, 0, 0, 0.6) 10px 10px 30px;
+    border-radius: 20px;
+}
+
+#diferenciais {
+    margin-top: 50px;
+}
+
+footer {
+
+    background-color:#ffffff;
+    padding: 50px;
+  
+}
+
+#ulfont{
+    font-family: "Outfit", sans-serif;
+}
+
+.espacamento {
+    margin-top: 20px;
+}
+
+#qrcode {
+    margin-bottom: 20px;
+}
+
+.acordeon {
+    margin-top: 90px;
+}
